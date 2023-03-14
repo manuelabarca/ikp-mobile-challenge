@@ -31,7 +31,7 @@ have;
 
 The API has two endpoints:
 
->- **GET** `/stores` - returns a list of stores with it`s activities.
+>- **GET** `/stores` - returns a list of stores with it`s tasks.
 
 >- **POST** `/checkin` - performs a checkin in a store/task.
 >
