@@ -3,7 +3,7 @@
 
 ## The problem
 
-We have an API at the address `https://`, which exposes a store list 
+We have an API at the address `https://ikp-mobile-challenge-backend.up.railway.app/`, which exposes a store list 
 resource as well as a checkin one. Your job is to develop an app that 
 offers a complete checkin experience to the worker. 
 
