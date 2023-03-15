@@ -36,13 +36,14 @@ The API has two endpoints:
 >- **POST** `/checkin` - performs a checkin in a store/task.
 >
 >     Parameters:  
->     - `storeId` - Integer  
->     - `taskId` - Integer  
+>     - `storeId` - Number  
+>     - `taskId` - Number  
 
 ## Bonus
 
 - Animations are welcome! 🤩 (Reanimated, SKIA, Lottie, etc)
 - Show stores in some map view
+- Calculate distance based on your actual location, to see which store is closest to me.
 - Scripts for generate .ipa or .aab with fastlane or other tools.
 
 ## Delivery
