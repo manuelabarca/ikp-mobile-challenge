@@ -32,6 +32,7 @@ have;
 The API has two endpoints:
 
 >- **GET** `/stores` - returns a list of stores with it`s tasks.
+>- **POST** `/stores/reset` - reset state to initial values in stores. (**It is recommended to generate a local or cache status to maintain the stores scheme, the values of the online stores may be affected by other participants.**)
 
 >- **POST** `/checkin` - performs a checkin in a store/task.
 >
